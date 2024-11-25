@@ -1,14 +1,16 @@
 #include<stdio.h>
 int main()
 {   
-    int YOB, age;
-    printf("Enter YOB: ");
-    scanf ("%d",&YOB);
+    // Write a program that asks for the age of the user and compute the year they were born
 
-    age=2024-YOB;
+    int age,YOB;
 
-    printf("Your age is %d \n",age);
-    
+    printf("Enter Age: ");
+    scanf("%d",&age);
+
+    YOB=2024-age;
+
+    printf("You were born in %d \n",YOB);
     
     return 0;
 }
