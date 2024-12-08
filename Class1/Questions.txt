@@ -1,0 +1,20 @@
+CS 174: PROGRAMMING IN C
+Lab Exercise 2 - Operators
+*******************************************************************************
+
+Question 1
+	Write a program that asks for the age of the user and compute the year they were born
+
+Question 2
+	Write a program that asks the user for the length of the side of a square and the program should compute the perimeter of the square and its area. 
+	The output on the screen should be something like --- 	"The Area is 24 sq. cm, and the Perimeter is 18cm" (24 and 18 are examples only)
+
+Question 3
+	Write a program that takes from the user the radius of a circle and the program should compute the area of the circle and its circumference. 
+	The Output on the screen should look like this: "The Area is 56 sq. cm and Circumference is 28cm"
+
+Question 4
+	Write a program that accepts from the user the values for PRINCIPLE, INTEREST RATE, AND TIME and the program should then compute the Simple Interest
+
+Question 5
+	Write a program that takes in an integer number and prints out the remainder, if that number is divided by 3
