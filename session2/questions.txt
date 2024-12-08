@@ -1,0 +1,36 @@
+
+/***********   174: PROGRAMMING IN C  ***************/
+LAB SESSION 3
+
+Lab Q7
+	Write a program where your user enters a string and you print out the number
+	of characters in that string
+
+Lab Q8
+	Write a program that takes password from users and check, if the password 
+	is less than seven characters, you print "TOO SHORT" otherwise, you print "STRONG"
+
+Lab Q9
+	Write a program that takes in Name of a person and age. 
+	The requirements are such that the name should be longer than 12 characters
+	and age to be more than 18 years. 
+	If this is true the program should print "THANK YOU" 
+	otherwise, it should print "WRONG ENTRY"
+
+Lab Q10
+	Write a program that takes from the user the radius of a sphere and 
+	print out the surface area of that sphere. Using ternary operators, 
+	the program should first check if the radius is not a number below 0
+
+Lab Q11
+	Write a Program that checks the age of a child. If the age is below zero, 
+	or above 10, the program should print "WRONG ENTRY", otherwise it should 
+	print "VALID AGE"
+
+
+
+
+12
+
+
+
