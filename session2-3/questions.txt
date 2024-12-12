@@ -1,0 +1,10 @@
+1.  Write a program that prompts for a surname from the user and then count 
+    number of character in the surname. the system should then print 
+    "Your name has 7 characters".
+
+2. Write a programme that accepts from the user the first name and 
+    print out the first name with the first letter capitalized
+
+
+3. Write a programm that accepts user password and check if it is more 
+    than 7 characters long , If more "SUfficient" if less "Insufficient" .
