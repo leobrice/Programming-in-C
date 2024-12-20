@@ -1,0 +1,15 @@
+CS 174: PROGRAMMING IN C
+Lab Exercise 4 - Decision/Select
+*******************************************************************************
+
+Question 10
+	Write a program that asks for the age of a person and check if the age is 18 	years and above, it should print "ALLOW ENTRY" otherwise print "DENY ENTRY"
+
+Question 11
+	Write a program that asks the user for their password and then check, if the 	password is less than 7 letters, it should print "INSUFFICIENT", otherwise it 	should print "KARIBU"
+	
+Question 12
+	Write a program that takes the year from the user and checks whether it is a 	leap year or a short year. Print LEAP if it is a leap year, and SHORT if it is 	a short year
+
+Question 13
+	write a program that asks for a registration number of the students in the 	format ABCD-XX-EFGH. The program should check, if XX is 04 it should print 	"UNDERGRADUATE" otherwise it should print "COULD BE ANYTHING"

@@ -1,0 +1,15 @@
+CS 174: PROGRAMMING IN C
+Lab Exercise 3 - Strings
+*******************************************************************************
+
+Question 6
+	Write a program that asks for the username and print the number of characters.
+
+Question 7
+	Write a program that asks the user for the surname and check whether the first 	character is alphanumeric or not, using ternary operators. If it is an 	alphanumeric, it should print "VERY GOOD", otherwise, it should print "WRONG" 
+	
+Question 8
+	Repeat question 7, but this time check the last character
+
+Question 9
+	Write a program that accepts from the user the first name and the last name. 	The program should then swap the values, put the first name in the last name 	and last name in the first
