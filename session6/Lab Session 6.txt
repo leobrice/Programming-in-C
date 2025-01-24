@@ -1,0 +1,26 @@
+/***********  CS 174: PROGRAMMING IN C  ***************/
+LAB SESSION 6
+
+Lab Q19	
+	Write a program that accepts marks for students in an array, 
+	the size of the array to be given by the user
+Lab Q20 
+	From the array above compute from the mean mark.
+
+Lab Q21
+	Write a programme, using arrays, that accepts marks of a test from a number
+	of students marks (the number of students to be provided by the user) and 
+	deduct 7 from each. 
+Lab Q22
+	If the resulting mark after deduction in Q21 above is less than 40,
+	it should set the marks to 40
+
+Lab Q23
+	From the array in 15 above calculate the average deviation from the mean. 
+	Thus if, for example, the mean was 50, the program is to compute the 
+	difference of each mark and 50 and add these differences and later find 
+	their average
+
+Lab Q24
+	Write a program that accepts marks from 20 students for two subjects. 
+	Note: Use iterative controls to manage that. 
